@@ -1,3 +1,3 @@
 # The joy finder model
-Recognizing model of positive emotions in human faces.
+Recognize positive emotions in human faces.
 SL
